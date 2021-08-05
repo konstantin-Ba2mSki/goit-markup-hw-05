@@ -548,26 +548,10 @@ p.label {
   min-height: 581px;
   background-color: #fff;
 
-  transform: translate(-50% -50%);
+  transform: translate(-50%. -50%);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
-}
-
-.thumb-icon {
-  position: absolute;
-  bottom: 93%;
-  left: 93%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 6px;
-  width: 30px;
-  height: 30px;
-  background-color: var(--primary-white-color);
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  border-radius: 50%;
-  cursor: pointer;
 }
 
 .close-icon {
